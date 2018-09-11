@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+    background-image: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/31901801_2063119104008530_2449032056311644160_n.png?_nc_cat=0&oh=5111e7784d7559208ccab3fecca7976a&oe=5BCAA7FF);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: luminosity;
+}
+
+h1 {
+    
+   border: 3px solid black;
+    
+}
+
+h2 {
+    
+    border: 3px solid black;
+}
+
+h3 {
+    
+    border: 3px solid black;
+}
+
